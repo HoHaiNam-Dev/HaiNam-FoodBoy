@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HaiNam-FoodBoy
 - 👀 I’m interested in Code, Foods, Drinks, Games.
-- 🌱 I’m currently studying int FPTU HCM.
-- 💞️ I’m looking to collaborate on FPT Software.
+- 🌱 I’m currently studying int FPTU HCM
 - 📫 How to reach me: fb/nam.hohai.hi/
 
 <!---
